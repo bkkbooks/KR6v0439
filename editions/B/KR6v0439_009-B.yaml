@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 般若部一淨土宗二遊行宗三一向宗一本假宗者淨土宗也假宗門三二遊假宗者遊行宗也三新假宗者一向宗也
+  hash: sha256:ba191771a588cdf621ab8cddf8edfaf7c57106fc60a15e5fb2cd6d1e850c7766
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 本朝諸宗要集卷四, id: KR6v0439_B_4a-juan-start, juan_n: 4a, jhead: 本朝諸宗要集卷四}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:f6581af32aaf7dec5a9a7f4e4800c228983ef039facebac302d1f72aed77b3f4

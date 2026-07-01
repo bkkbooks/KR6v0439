@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 妙哉古之馬鳴大士者起信本論釋摩訶衍末論述于之兮時哉今之義觀法師亦大道本論宗要末論述于之嗚呼以於古而欲令知於今而已爾序旹寶永三曆丙戊中秋洛東逸人
+  hash: sha256:6f3f38d2e40c6a780d8a308299e2212effca5219aae18bc6c1478820350b4f48
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 110本朝諸宗要集卷一, id: KR6v0439_B_1a-juan-start, juan_n: 1a, jhead: 110本朝諸宗要集卷一}
+  - {type: 序, offset: 0, content: 序, id: KR6v0439_B_1a-mulu-1, level: '1'}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:fa689bcbabdf41284e8ae2ed929f87855ee411ed50bbfe65708d6e85f30e103d

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 阿含部一俱舍宗二成實宗三律宗一實有四諦宗者俱舍宗也二見空得道宗者成實宗也擇滅空三三防非止惡宗者三一唯律宗也二兼律宗也三摩訶衍律宗也
+  hash: sha256:bbccffa1aecda3ecceec6b76c7bb4ab402f303f230e86fd963c01ec6dc74f210
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 本朝諸宗要集卷二, id: KR6v0439_B_2a-juan-start, juan_n: 2a, jhead: 本朝諸宗要集卷二}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:35204a81a5c8acda89bf1f15530982f3219e4907cccc4b1b758e8297f90f5243

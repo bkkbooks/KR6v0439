@@ -1,0 +1,438 @@
+canonical_identifier: bkk:krp/KR6v0439/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0439/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本朝諸宗要集
+  identifiers:
+    krp: KR6v0439
+    cbeta: B32n0177
+    cbeta_old_id: B32n0177
+    authorityid: CA0006263
+    json_key: B0177
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0439_000-B.yaml, hash: 'sha256:81693bea055ac1cc0826345686f0cea0a46d4b863082838f3f72dfb4a0c972be'}
+  - {seq: 2, filename: KR6v0439_002-B.yaml, hash: 'sha256:fa689bcbabdf41284e8ae2ed929f87855ee411ed50bbfe65708d6e85f30e103d'}
+  - {seq: 3, filename: KR6v0439_003-B.yaml, hash: 'sha256:3e0800e16a4c8e81689a4ac68634ff02329ac47a9e25ce9cd9197052f90e4ca5'}
+  - {seq: 4, filename: KR6v0439_004-B.yaml, hash: 'sha256:e153f93e1e9e4fb4bcd44fffacff841cc6dd7a6967745084022f14c1b617d501'}
+  - {seq: 5, filename: KR6v0439_005-B.yaml, hash: 'sha256:35204a81a5c8acda89bf1f15530982f3219e4907cccc4b1b758e8297f90f5243'}
+  - {seq: 6, filename: KR6v0439_006-B.yaml, hash: 'sha256:634288fa25e613fdda2bf8c02dd8e83553dfedec83c68300ab02a4761045d458'}
+  - {seq: 7, filename: KR6v0439_007-B.yaml, hash: 'sha256:d20bc0bb7d0ba18a9d2242a7bd321eaa18723a7fd9c70ac8de13fe61d286d35e'}
+  - {seq: 8, filename: KR6v0439_008-B.yaml, hash: 'sha256:936fae0207857f3fb6f5c56530cb34ccf7da30e73454af1c2b326e05dca29044'}
+  - {seq: 9, filename: KR6v0439_009-B.yaml, hash: 'sha256:f6581af32aaf7dec5a9a7f4e4800c228983ef039facebac302d1f72aed77b3f4'}
+  - {seq: 10, filename: KR6v0439_010-B.yaml, hash: 'sha256:1e0e003568f8019f660ea567c5b676f8a7ae011e1027ba9e60dcdd4e5e930086'}
+  - {seq: 11, filename: KR6v0439_011-B.yaml, hash: 'sha256:32a87364b51d0cf6fcb66cb02cc2673631c469630db4d955cdb31007156928ee'}
+  - {seq: 12, filename: KR6v0439_012-B.yaml, hash: 'sha256:39bdd8b30b6c550b1330509db94f2bfc6b05284a339695df4ee819d0adb1b8f8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0439_000-B.markers.yaml, hash: 'sha256:470241411e0a520f58e6df6643361c8ebf26db7c9a1a8f2c8345ab802e865f00'}
+  - {seq: 2, role: markers, filename: assets/KR6v0439_002-B.markers.yaml, hash: 'sha256:f06d93b324d0ba7699ecafd98ab161f96e9690749f420b51efd8cf12aedc396d'}
+  - {seq: 3, role: markers, filename: assets/KR6v0439_003-B.markers.yaml, hash: 'sha256:37ef7485e80af2e35ea30b1c685f1f57225552b0fbde43fe28395ef2eaa0b0b5'}
+  - {seq: 4, role: markers, filename: assets/KR6v0439_004-B.markers.yaml, hash: 'sha256:85d111c52de8a0cab90a40089512237af2ca622c9e274554d1e3f525cc2c2605'}
+  - {seq: 5, role: markers, filename: assets/KR6v0439_005-B.markers.yaml, hash: 'sha256:49df75dabd600ac79b0762b28fcb36cdfbb85bcbfc351773bd57eed1e02f5bc2'}
+  - {seq: 6, role: markers, filename: assets/KR6v0439_006-B.markers.yaml, hash: 'sha256:332f83dcc7019f2b439a4e0942263ac2c78746dc734e79fe190b5368486aa249'}
+  - {seq: 7, role: markers, filename: assets/KR6v0439_007-B.markers.yaml, hash: 'sha256:c3bb5b65fe8a517a5dfb6e58766e0063a948056b8c92889f01b13818b07460de'}
+  - {seq: 8, role: markers, filename: assets/KR6v0439_008-B.markers.yaml, hash: 'sha256:eadf31f35d9420df3d03304713179121f8e0850747118743d698981aa6a3c96a'}
+  - {seq: 9, role: markers, filename: assets/KR6v0439_009-B.markers.yaml, hash: 'sha256:5655e4e9133159d03e5c670adc7886a0602ffddd3e1f0d5f0e00e5b5ad4a165f'}
+  - {seq: 10, role: markers, filename: assets/KR6v0439_010-B.markers.yaml, hash: 'sha256:eb7e43ad436cbc5a39c51b28255e9ceb31df12ab4cdd024c87bc01363d023bb9'}
+  - {seq: 11, role: markers, filename: assets/KR6v0439_011-B.markers.yaml, hash: 'sha256:45b8af3f02eadce213f4510df7ef9b942dbbf57f6ab723db1e767ff86313ce0d'}
+  - {seq: 12, role: markers, filename: assets/KR6v0439_012-B.markers.yaml, hash: 'sha256:e8e11643114b38d8200725fac51c3adde3d2fb8249db07e5a0eeb487c219617b'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6v0439_B_1a-juan-start
+    span:
+    - body
+    - 0
+    - 71
+  label: 110本朝諸宗要集卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0439_B_1a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0439_B_1b-juan-start
+    span:
+    - body
+    - 0
+    - 37
+  label: 本朝諸宗要集卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-juan-start
+    span:
+    - body
+    - 0
+    - 9090
+  label: 本朝諸宗要集卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-2
+    span:
+    - body
+    - 974
+    - 974
+  label: 四事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-3
+    span:
+    - body
+    - 974
+    - 974
+  label: 天竺論師興起事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-4
+    span:
+    - body
+    - 1248
+    - 1248
+  label: 天竺佛法漢土來事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-5
+    span:
+    - body
+    - 1488
+    - 1488
+  label: 佛法來日本事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-6
+    span:
+    - body
+    - 1601
+    - 1601
+  label: 諸宗不同事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-7
+    span:
+    - body
+    - 1922
+    - 1922
+  label: 華嚴部
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-8
+    span:
+    - body
+    - 1922
+    - 1922
+  label: 華嚴宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0439_B_1c-mulu-9
+    span:
+    - body
+    - 5681
+    - 5681
+  label: 禪宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0439_B_2a-juan-start
+    span:
+    - body
+    - 0
+    - 65
+  label: 本朝諸宗要集卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0439_B_2b-juan-start
+    span:
+    - body
+    - 0
+    - 5997
+  label: 本朝諸宗要集卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0439_B_2b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 阿含部
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0439_B_2b-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0439_B_2b-mulu-3
+    span:
+    - body
+    - 490
+    - 490
+  label: 成實宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0439_B_2b-mulu-4
+    span:
+    - body
+    - 1412
+    - 1412
+  label: 律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0439_B_3a-juan-start
+    span:
+    - body
+    - 0
+    - 46
+  label: 本朝諸宗要集卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0439_B_3b-juan-start
+    span:
+    - body
+    - 0
+    - 12718
+  label: 本朝諸宗要集卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0439_B_3b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 方等部
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0439_B_3b-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 真言宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0439_B_3b-mulu-3
+    span:
+    - body
+    - 3319
+    - 3319
+  label: 行者宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0439_B_3b-mulu-4
+    span:
+    - body
+    - 5438
+    - 5438
+  label: 法相宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0439_B_4a-juan-start
+    span:
+    - body
+    - 0
+    - 46
+  label: 本朝諸宗要集卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0439_B_4b-juan-start
+    span:
+    - body
+    - 0
+    - 10819
+  label: 本朝諸宗要集卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0439_B_4b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 般若部
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0439_B_4b-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨土宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0439_B_4b-mulu-3
+    span:
+    - body
+    - 4187
+    - 4187
+  label: 遊行宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0439_B_4b-mulu-4
+    span:
+    - body
+    - 7602
+    - 7602
+  label: 一向宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0439_B_5a-juan-start
+    span:
+    - body
+    - 0
+    - 74
+  label: 本朝諸宗要集卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-juan-start
+    span:
+    - body
+    - 0
+    - 12418
+  label: 本朝諸宗要集卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 法華部
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 三論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-3
+    span:
+    - body
+    - 1934
+    - 1934
+  label: 日蓮宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-4
+    span:
+    - body
+    - 3769
+    - 3769
+  label: 大念佛宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-5
+    span:
+    - body
+    - 4978
+    - 4978
+  label: 天台宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0439_B_5b-mulu-6
+    span:
+    - body
+    - 9605
+    - 9605
+  label: 涅槃宗
+  type: mulu
+  level: 1
+hash: sha256:19b49b2baed6a023806a9a4f7916df07ae6f98f063b9cba0289c80eac56254e2

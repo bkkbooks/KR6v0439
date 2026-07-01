@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法華部三論宗日蓮宗大念佛宗天台宗涅槃宗一八不中宗者三論宗也二新中宗者日蓮宗也中宗門五三融通中宗者大念佛宗也四不二中宗者天台宗也五佛性常住宗者涅槃宗也
+  hash: sha256:266fc7127a04f1840dad3757b110cbe2ccff1cf46d62bd48a0a283545b6b9677
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 本朝諸宗要集卷五, id: KR6v0439_B_5a-juan-start, juan_n: 5a, jhead: 本朝諸宗要集卷五}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:32a87364b51d0cf6fcb66cb02cc2673631c469630db4d955cdb31007156928ee

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 華嚴部一華嚴宗二禪宗一本性宗者華嚴宗也一性空二二見性宗者禪宗也空宗門八二三
+  hash: sha256:8794440ebc16a40ca46e5a52cf953727b8712593a702cfe14127aa4986308144
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 本朝諸宗要集卷一, id: KR6v0439_B_1b-juan-start, juan_n: 1b, jhead: 本朝諸宗要集卷一}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:3e0800e16a4c8e81689a4ac68634ff02329ac47a9e25ce9cd9197052f90e4ca5

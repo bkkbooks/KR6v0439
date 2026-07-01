@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR6v0439/B/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0439_B_000-0463a, ed: B, 'n': 0463a, source_xml_id: B32.0177.0463a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0439_B_000-0463a01, ed: B, 'n': 0463a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0439_B_000-0463a02, ed: B, 'n': 0463a02}
+  - {type: variant, offset: 176, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 243, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 602, length: 1, content: 甘D40n8903_p0032b05, 補編: 耳}
+  - {type: variant, offset: 643, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 647, length: 1, content: 土, 補編: 士}
+  - {type: variant, offset: 919, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 1251, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 1280, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 1667, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 1698, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 1778, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 2037, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 2352, length: 1, content: 儀T12n0365_p0345b21, 補編: 議}
+  - {type: variant, offset: 2598, length: 1, content: 己, 補編: 巳}
+  - {type: variant, offset: 3221, length: 1, content: 卻, 補編: 郤}
+  - {type: variant, offset: 3440, length: 1, content: 己, 補編: 巳}
+  - {type: variant, offset: 3632, length: 1, content: 諂T46n1931_p0776a28, 補編: 謟}
+  - {type: variant, offset: 3813, length: 1, content: 諂B32n0173_p0247c13, 補編: 謟}
+  - {type: variant, offset: 3905, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 3932, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 3981, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4019, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4060, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4071, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4112, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4217, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4486, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4511, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4523, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4610, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 4833, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 4864, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 4936, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 5032, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 5206, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 5239, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 5503, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 5649, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 5869, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 6609, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 6750, length: 1, content: 菩, 補編: 苦}
+  - {type: variant, offset: 6752, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 7399, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 7576, length: 1, content: 己, 補編: 已}
+  - {type: variant, offset: 8014, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 8342, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 8502, length: 1, content: 己, 補編: 巳}
+  - {type: variant, offset: 8610, length: 1, content: 兹, 補編: 玆}
+  - {type: variant, offset: 9231, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 9309, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 9322, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 9767, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 9891, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 10000, length: 1, content: 槃, 補編: 樂}
+  - {type: variant, offset: 10368, length: 1, content: 槃, 補編: 樂}
+  - {type: variant, offset: 10548, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 10697, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 10734, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 10827, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 10836, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 11551, length: 1, content: 珮, 補編: 𤧑}
+  - {type: variant, offset: 11760, length: 1, content: 間, 補編: 開}
+  - {type: variant, offset: 12116, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 12200, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 12387, length: 1, content: 已, 補編: 巳}
+  body: []
+  back: []
+hash: sha256:470241411e0a520f58e6df6643361c8ebf26db7c9a1a8f2c8345ab802e865f00

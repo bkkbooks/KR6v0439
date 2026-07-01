@@ -1,0 +1,77 @@
+canonical_identifier: bkk:krp/KR6v0439/B/v1/markers/11
+seq: 11
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0439_B_5a-0490b03, ed: B, 'n': 0490b03}
+  - {type: line-break, offset: 0, content: '', id: KR6v0439_B_5a-0490b04, ed: B, 'n': 0490b04}
+  - {type: line-break, offset: 6, content: '', id: KR6v0439_B_5a-0490b05, ed: B, 'n': 0490b05}
+  - {type: line-break, offset: 9, content: '', id: KR6v0439_B_5a-0490b06, ed: B, 'n': 0490b06}
+  - {type: line-break, offset: 13, content: '', id: KR6v0439_B_5a-0490b07, ed: B, 'n': 0490b07}
+  - {type: line-break, offset: 16, content: '', id: KR6v0439_B_5a-0490b08, ed: B, 'n': 0490b08}
+  - {type: line-break, offset: 19, content: '', id: KR6v0439_B_5a-0490b09, ed: B, 'n': 0490b09}
+  - {type: line-break, offset: 19, content: '', id: KR6v0439_B_5a-0490b10, ed: B, 'n': 0490b10}
+  - {type: xml-element, offset: 19, content: '', id: pB32p0490b1001, name: p, role: open, attrs: {'cb:type': pre, 'xml:id': pB32p0490b1001}}
+  - {type: indent, offset: 19, content: 　, id: KR6v0439_B_011-bkkind1}
+  - {type: indent, offset: 19, content: 　, id: KR6v0439_B_011-bkkind2}
+  - {type: indent, offset: 19, content: 　, id: KR6v0439_B_011-bkkind3}
+  - {type: indent, offset: 19, content: 　, id: KR6v0439_B_011-bkkind4}
+  - {type: indent, offset: 19, content: 　, id: KR6v0439_B_011-bkkind5}
+  - {type: punctuation, offset: 19, content: ┌, id: KR6v0439_B_011-bkkpn1}
+  - {type: indent, offset: 20, content: 　, id: KR6v0439_B_011-bkkind6}
+  - {type: indent, offset: 25, content: 　, id: KR6v0439_B_011-bkkind7}
+  - {type: punctuation, offset: 29, content: 。, id: KR6v0439_B_011-bkkpn2}
+  - {type: line-break, offset: 29, content: '', id: KR6v0439_B_5a-0490b11, ed: B, 'n': 0490b11}
+  - {type: indent, offset: 29, content: 　, id: KR6v0439_B_011-bkkind8}
+  - {type: indent, offset: 29, content: 　, id: KR6v0439_B_011-bkkind9}
+  - {type: indent, offset: 29, content: 　, id: KR6v0439_B_011-bkkind10}
+  - {type: indent, offset: 29, content: 　, id: KR6v0439_B_011-bkkind11}
+  - {type: indent, offset: 29, content: 　, id: KR6v0439_B_011-bkkind12}
+  - {type: punctuation, offset: 29, content: │, id: KR6v0439_B_011-bkkpn3}
+  - {type: indent, offset: 30, content: 　, id: KR6v0439_B_011-bkkind13}
+  - {type: indent, offset: 34, content: 　, id: KR6v0439_B_011-bkkind14}
+  - {type: punctuation, offset: 38, content: 。, id: KR6v0439_B_011-bkkpn4}
+  - {type: line-break, offset: 38, content: '', id: KR6v0439_B_5a-0490b12, ed: B, 'n': 0490b12}
+  - {type: punctuation, offset: 38, content: ○, id: KR6v0439_B_011-bkkpn5}
+  - {type: punctuation, offset: 42, content: ┤, id: KR6v0439_B_011-bkkpn6}
+  - {type: indent, offset: 43, content: 　, id: KR6v0439_B_011-bkkind15}
+  - {type: indent, offset: 48, content: 　, id: KR6v0439_B_011-bkkind16}
+  - {type: punctuation, offset: 53, content: 。, id: KR6v0439_B_011-bkkpn7}
+  - {type: line-break, offset: 53, content: '', id: KR6v0439_B_5a-0490b13, ed: B, 'n': 0490b13}
+  - {type: indent, offset: 53, content: 　, id: KR6v0439_B_011-bkkind17}
+  - {type: indent, offset: 53, content: 　, id: KR6v0439_B_011-bkkind18}
+  - {type: indent, offset: 53, content: 　, id: KR6v0439_B_011-bkkind19}
+  - {type: indent, offset: 53, content: 　, id: KR6v0439_B_011-bkkind20}
+  - {type: indent, offset: 53, content: 　, id: KR6v0439_B_011-bkkind21}
+  - {type: punctuation, offset: 53, content: │, id: KR6v0439_B_011-bkkpn8}
+  - {type: indent, offset: 54, content: 　, id: KR6v0439_B_011-bkkind22}
+  - {type: indent, offset: 59, content: 　, id: KR6v0439_B_011-bkkind23}
+  - {type: punctuation, offset: 63, content: 。, id: KR6v0439_B_011-bkkpn9}
+  - {type: line-break, offset: 63, content: '', id: KR6v0439_B_5a-0490b14, ed: B, 'n': 0490b14}
+  - {type: indent, offset: 63, content: 　, id: KR6v0439_B_011-bkkind24}
+  - {type: indent, offset: 63, content: 　, id: KR6v0439_B_011-bkkind25}
+  - {type: indent, offset: 63, content: 　, id: KR6v0439_B_011-bkkind26}
+  - {type: indent, offset: 63, content: 　, id: KR6v0439_B_011-bkkind27}
+  - {type: indent, offset: 63, content: 　, id: KR6v0439_B_011-bkkind28}
+  - {type: punctuation, offset: 63, content: └, id: KR6v0439_B_011-bkkpn10}
+  - {type: indent, offset: 64, content: 　, id: KR6v0439_B_011-bkkind29}
+  - {type: indent, offset: 70, content: 　, id: KR6v0439_B_011-bkkind30}
+  - {type: punctuation, offset: 74, content: 。, id: KR6v0439_B_011-bkkpn11}
+  - {type: xml-element, offset: 74, content: '', id: pB32p0490b1001_end, name: p, role: close, attrs: {'cb:type': pre, 'xml:id': pB32p0490b1001}}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b15, ed: B, 'n': 0490b15}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b16, ed: B, 'n': 0490b16}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b17, ed: B, 'n': 0490b17}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b18, ed: B, 'n': 0490b18}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b19, ed: B, 'n': 0490b19}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b20, ed: B, 'n': 0490b20}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b21, ed: B, 'n': 0490b21}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b22, ed: B, 'n': 0490b22}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b23, ed: B, 'n': 0490b23}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b24, ed: B, 'n': 0490b24}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b25, ed: B, 'n': 0490b25}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490b26, ed: B, 'n': 0490b26}
+  - {type: page-break, offset: 74, content: '', id: KR6v0439_B_5a-0490c, ed: B, 'n': 0490c, source_xml_id: B32.0177.0490c}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490c01, ed: B, 'n': 0490c01}
+  - {type: line-break, offset: 74, content: '', id: KR6v0439_B_5a-0490c02, ed: B, 'n': 0490c02}
+  back: []
+hash: sha256:45b8af3f02eadce213f4510df7ef9b942dbbf57f6ab723db1e767ff86313ce0d

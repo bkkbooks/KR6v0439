@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0439/b/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方等部一真言宗二行者宗三法相宗一本空宗者真言宗也摩訶空三二雜空宗者行者宗也三法空宗者法相宗也
+  hash: sha256:56a3ec4e9fc87670455a0e48ec12b3184c24b0b595190a985fa30637c41074ed
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 本朝諸宗要集卷三, id: KR6v0439_B_3a-juan-start, juan_n: 3a, jhead: 本朝諸宗要集卷三}
+metadata:
+  title: 本朝諸宗要集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0177.xml
+    old_id: B32n0177
+hash: sha256:d20bc0bb7d0ba18a9d2242a7bd321eaa18723a7fd9c70ac8de13fe61d286d35e
